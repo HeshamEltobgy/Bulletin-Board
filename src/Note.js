@@ -62,7 +62,7 @@ class Note extends Component {
                <form onSubmit={this.save}>
                    <textarea ref={input => this._newText = input}
                               defaultValue={this.props.children}/>
-                   <button><FaSave /></button>
+                   <button style={{color:'darkslategray'}}><FaSave /></button>
                </form>
             </div>
         )
