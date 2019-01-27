@@ -75,8 +75,7 @@ class Board extends Component {
             <div className="board">
                 {this.state.notes.map(this.eachNote)}
                 <button onClick={this.add.bind(null, "New Note")}
-                        id="add">
-                    <FaPlus />
+                        id="add" title="add a new note"><span>Add</span> <FaPlus />
                 </button>
             </div>
         )

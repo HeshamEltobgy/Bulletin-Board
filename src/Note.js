@@ -58,7 +58,7 @@ class Note extends Component {
 
     renderForm() {
         return (
-            <div className="note" style={this.style}>
+            <div className="note" >
                <form onSubmit={this.save}>
                    <textarea ref={input => this._newText = input}
                               defaultValue={this.props.children}/>
@@ -69,11 +69,11 @@ class Note extends Component {
     }
     renderDisplay() {
         return (
-            <div className='note' style={this.style}>
+            <div className='note' >
                <p>{this.props.children}</p>
                <span>
-                   <button onClick={this.edit} id="edit"><FaPencilAlt /></button>
-                   <button onClick={this.remove} id="remove"><FaTrash /></button>
+                   <button onClick={this.edit} id="edit" title="add text or edit existing"><FaPencilAlt /></button>
+                   <button onClick={this.remove} id="remove" title="remove note"><FaTrash /></button>
                </span>
             </div>
         )
