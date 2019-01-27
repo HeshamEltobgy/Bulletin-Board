@@ -2,6 +2,12 @@
   "name": "react-project2",
   "version": "0.1.0",
   "private": true,
+  "description": "This is a React project that allows user to create, add or edit bulletin board",
+  "main": "index.js",
+  "homepage": "http://HeshamEltobgy.github.io/Bulletin-Board",
+  "devDependencies": {},
+  "author": "Hesham Eltobgy <hesham_eltobgy@hotmail.com",
+  "license": "CC-BY-ND-1.0",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.6.3",
