@@ -1,13 +1,13 @@
 {
-  "main.css": "/Bulletin-Board/static/css/main.d87d1f11.chunk.css",
-  "main.js": "/Bulletin-Board/static/js/main.3e9f85eb.chunk.js",
-  "main.js.map": "/Bulletin-Board/static/js/main.3e9f85eb.chunk.js.map",
+  "main.css": "/Bulletin-Board/static/css/main.542117e5.chunk.css",
+  "main.js": "/Bulletin-Board/static/js/main.5ddef059.chunk.js",
+  "main.js.map": "/Bulletin-Board/static/js/main.5ddef059.chunk.js.map",
   "static/js/1.640cbbf3.chunk.js": "/Bulletin-Board/static/js/1.640cbbf3.chunk.js",
   "static/js/1.640cbbf3.chunk.js.map": "/Bulletin-Board/static/js/1.640cbbf3.chunk.js.map",
   "runtime~main.js": "/Bulletin-Board/static/js/runtime~main.e18a1111.js",
   "runtime~main.js.map": "/Bulletin-Board/static/js/runtime~main.e18a1111.js.map",
-  "static/css/main.d87d1f11.chunk.css.map": "/Bulletin-Board/static/css/main.d87d1f11.chunk.css.map",
+  "static/css/main.542117e5.chunk.css.map": "/Bulletin-Board/static/css/main.542117e5.chunk.css.map",
   "index.html": "/Bulletin-Board/index.html",
-  "precache-manifest.16de96fc01e29bf91f405198a51da679.js": "/Bulletin-Board/precache-manifest.16de96fc01e29bf91f405198a51da679.js",
+  "precache-manifest.d396e0d90b51e25e0587ac18c658442d.js": "/Bulletin-Board/precache-manifest.d396e0d90b51e25e0587ac18c658442d.js",
   "service-worker.js": "/Bulletin-Board/service-worker.js"
 }
