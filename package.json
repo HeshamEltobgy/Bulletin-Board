@@ -6,14 +6,14 @@
   "main": "index.js",
   "homepage": "http://HeshamEltobgy.github.io/Bulletin-Board",
   "devDependencies": {},
-  "author": "Hesham Eltobgy <hesham_eltobgy@hotmail.com",
+  "author": "Hesham Eltobgy",
   "license": "CC-BY-ND-1.0",
   "dependencies": {
     "gh-pages": "^2.0.1",
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
     "react-icons": "^3.2.2",
-    "react-scripts": "2.1.1"
+    "react-scripts": "^2.1.5"
   },
   "scripts": {
     "predeploy": "npm run build",
